@@ -1,0 +1,4 @@
+# ignore all DS store files
+*.DS_Store
+fonts/.DS_Store
+sass/.DS_Store
